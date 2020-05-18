@@ -11,6 +11,9 @@ Kutsal canavar.
 
 
 #Metodlar
+
 #Saldır(Beybladenin saldırmasını sağlar)
+
 #BilgilerGöster(Beybladenin bilgilerini gösterir.Her sınıfta override edilip ilgili yerlerin tekrar yazılması gerekir.Örn:Kutsal Canavar)
+
 #KutsalCanavarOrtayaÇıkar(Beybladeciye göre Kutsal Canavarı Çağırır ve ilgili özelliklere göre beybalde güç veya can kazanır.)
