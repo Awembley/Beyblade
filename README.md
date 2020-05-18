@@ -10,7 +10,7 @@ Beyblade canı,
 Kutsal canavar.
 
 
-#Metodlar
+#Metodlar :
 
 #Saldır(Beybladenin saldırmasını sağlar)
 
